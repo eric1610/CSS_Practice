@@ -1,0 +1,21 @@
+body {
+    background-color: #1ab341;
+    color: #336600;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+h1 {
+    background-color: #336600;
+    color: #1ab341;
+}
+
+ol, ul {
+    background-color: #ece934;
+}
+
+p {
+    border: 3px solid;
+}
