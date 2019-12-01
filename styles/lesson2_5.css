@@ -1,0 +1,44 @@
+body {
+    background-color: #e3f34f;
+    color: #e3f34f;
+    font-family: Helvetica;
+}
+
+h1 {
+    color: #e68f1e;
+    border: 0.2rem solid #e68f1e;
+    font-weight: 800;
+    font-size: 3em;
+    padding: 0.4rem 0.2rem;
+    font-family: Impact;
+}
+
+h2 {
+    background-color: #e68f1e;
+    font-size: 2em;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2rem 0.2rem 0.3rem;
+}
+
+p {
+    color: #000000;
+    border: 0.1rem dashed #e68f1e;
+    padding: 0.4rem 0.2rem;
+}
+
+ol {
+    background-color: #e68f1e;
+    padding: 0.3rem 2rem;
+}
+
+button {
+    background-color: #ffffff;
+    color: #4458c8;
+    border-radius: 0.3rem;
+    padding: 0.5rem;
+    border: 0.1rem solid #4458c8;
+    box-shadow: 0.1rem 0.1rem 0.1rem #232323;
+    font-family: Garamond;
+    font-weight: 200;
+}
