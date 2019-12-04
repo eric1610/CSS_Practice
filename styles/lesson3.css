@@ -1,0 +1,35 @@
+body {
+    background-color: #4a97e4;
+    color: #ffffff;
+    margin: 35px 25px 0px 25px;
+    font-family: sans-serif;
+}
+
+p, h2 {
+    padding-left: 1.4rem;
+}
+.top {
+    color: #c9c0c0;
+}
+
+.top p, .top ul, .top .fake-link, .top h2{
+    background-color: #1a1dec;
+}
+
+.bottom {
+    color: #1a1dec;
+}
+.bottom h2, p, ul, .fake-link {
+    background-color: #c9c0c0;
+}
+.fake-link {
+    color: #4a97e4;
+    text-decoration: underline;
+}
+
+#cascading {
+    color: #4a9865;
+}
+li {
+    padding-left: 0;
+}

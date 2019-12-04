@@ -1,0 +1,40 @@
+body {
+    background-color: #006666;
+    color: white;
+}
+
+h1:hover {
+    text-decoration: underline;
+}
+
+input:hover {
+    border: 0.9rem solid #e4e115;
+}
+
+input:focus {
+    background-color: #e4e115;
+}
+
+button:hover {
+    background-color: #006666;
+    color: white;
+}
+
+button:active {
+    background-color: #33cc99;
+}
+
+li:hover{
+    background-color: #ffffff;
+    color: #006666;
+}
+
+li:active{
+    background-color: #33cc99;
+}
+a {
+    color: #ffffff;
+}
+a:visited {
+    color: #33cc99;
+}
